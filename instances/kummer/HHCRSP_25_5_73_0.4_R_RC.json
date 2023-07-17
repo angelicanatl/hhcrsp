@@ -12,11 +12,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s2",
+                    "service": "s3",
                     "duration": 57.0
                 },
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 33.0
                 }
             ],
@@ -40,7 +40,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 23.0
                 }
             ]
@@ -57,7 +57,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s1",
+                    "service": "s2",
                     "duration": 35.0
                 }
             ]
@@ -74,11 +74,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s2",
+                    "service": "s3",
                     "duration": 50.0
                 },
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 43.0
                 }
             ],
@@ -102,11 +102,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s2",
+                    "service": "s3",
                     "duration": 33.0
                 },
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 20.0
                 }
             ],
@@ -130,11 +130,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s1",
+                    "service": "s2",
                     "duration": 53.0
                 },
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 60.0
                 }
             ],
@@ -154,7 +154,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 17.0
                 }
             ]
@@ -171,7 +171,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 49.0
                 }
             ]
@@ -188,11 +188,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s1",
+                    "service": "s2",
                     "duration": 37.0
                 },
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 25.0
                 }
             ],
@@ -212,7 +212,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 39.0
                 }
             ]
@@ -229,7 +229,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s0",
+                    "service": "s1",
                     "duration": 44.0
                 }
             ]
@@ -246,7 +246,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 29.0
                 }
             ]
@@ -263,7 +263,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 39.0
                 }
             ]
@@ -280,7 +280,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s3",
+                    "service": "s4",
                     "duration": 25.0
                 }
             ]
@@ -297,7 +297,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 19.0
                 }
             ]
@@ -314,7 +314,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 55.0
                 }
             ]
@@ -331,7 +331,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 50.0
                 }
             ]
@@ -348,11 +348,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s1",
+                    "service": "s2",
                     "duration": 56.0
                 },
                 {
-                    "service": "s3",
+                    "service": "s4",
                     "duration": 52.0
                 }
             ],
@@ -372,11 +372,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s0",
+                    "service": "s1",
                     "duration": 17.0
                 },
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 26.0
                 }
             ],
@@ -396,7 +396,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s4",
+                    "service": "s5",
                     "duration": 45.0
                 }
             ]
@@ -413,7 +413,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s3",
+                    "service": "s4",
                     "duration": 55.0
                 }
             ]
@@ -430,11 +430,11 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s0",
+                    "service": "s1",
                     "duration": 28.0
                 },
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 15.0
                 }
             ],
@@ -458,7 +458,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s1",
+                    "service": "s2",
                     "duration": 35.0
                 }
             ]
@@ -475,7 +475,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 58.0
                 }
             ]
@@ -492,7 +492,7 @@
             ],
             "required_caregivers": [
                 {
-                    "service": "s5",
+                    "service": "s6",
                     "duration": 41.0
                 }
             ]
@@ -500,38 +500,31 @@
     ],
     "services": [
         {
-            "id": "s0",
+            "id": "s1",
             "default_duration": 17.0
         },
         {
-            "id": "s1",
+            "id": "s2",
             "default_duration": 35.0
         },
         {
-            "id": "s2",
+            "id": "s3",
             "default_duration": 33.0
         },
         {
-            "id": "s3",
+            "id": "s4",
             "default_duration": 25.0
         },
         {
-            "id": "s4",
+            "id": "s5",
             "default_duration": 39.0
         },
         {
-            "id": "s5",
+            "id": "s6",
             "default_duration": 15.0
         }
     ],
     "caregivers": [
-        {
-            "id": "c0",
-            "abilities": [
-                "s0",
-                "s1"
-            ]
-        },
         {
             "id": "c1",
             "abilities": [
@@ -542,14 +535,13 @@
         {
             "id": "c2",
             "abilities": [
-                "s3",
-                "s4"
+                "s2",
+                "s3"
             ]
         },
         {
             "id": "c3",
             "abilities": [
-                "s3",
                 "s4",
                 "s5"
             ]
@@ -557,8 +549,16 @@
         {
             "id": "c4",
             "abilities": [
-                "s3",
-                "s5"
+                "s4",
+                "s5",
+                "s6"
+            ]
+        },
+        {
+            "id": "c5",
+            "abilities": [
+                "s4",
+                "s6"
             ]
         }
     ],
