@@ -178,9 +178,11 @@ The instance format is JSON with the following structure:
 }
 ```
 
-The [JSON type definition (RFC 8927)](https://jsontypedef.com) of the format is provided in the file `hhcrp-input-typedef.json`.
+In particular, the distance matrix is assumed to be in the following order (for rows/columns): `d, p1, p2, ..., pn`. The default durations for the services has to be used if no specific value is provided for a patient requiring that service. The synchronization type can be `simultaneous` (i.e., the two services should start at the very same moment) or `sequential` (i.e., the two services should be spread apart). In the latter case the minimum and maximum amount of time the two services should distantiate is reported.
 
 ### Solution format
+
+The [JSON type definition (RFC 8927)](https://jsontypedef.com) of the format is provided in the file `hhcrp-input-typedef.json`.
 
 ``` json
 {
