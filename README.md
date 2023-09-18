@@ -272,7 +272,7 @@ Analogously, the solution format is described using [JSON type definition (RFC 8
 
 ## Instance generator
 
-The Instance generator and the instructions for generating new instances will be available soon.
+⚠️ The Instance generator and the instructions for generating new instances will be available soon.
 
 ## Instance and solution validator
 
