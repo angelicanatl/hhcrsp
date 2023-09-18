@@ -1,0 +1,109 @@
+{
+  "global_ordering": [
+    "p8",
+    "p10",
+    "p3",
+    "p6",
+    "p2",
+    "p1",
+    "p5",
+    "p9",
+    "p7",
+    "p4"
+  ],
+  "routes": [
+    {
+      "caregiver_id": "c1",
+      "locations": [
+        {
+          "arrival_time": 148.0,
+          "departure_time": 162.0,
+          "patient": "p10",
+          "service": "s3"
+        },
+        {
+          "arrival_time": 247.0,
+          "departure_time": 261.0,
+          "patient": "p3",
+          "service": "s2"
+        },
+        {
+          "arrival_time": 314.1510009765625,
+          "departure_time": 328.1510009765625,
+          "patient": "p5",
+          "service": "s3"
+        },
+        {
+          "arrival_time": 356.04400634765625,
+          "departure_time": 370.04400634765625,
+          "patient": "p9",
+          "service": "s1"
+        },
+        {
+          "arrival_time": 434.0,
+          "departure_time": 448.0,
+          "patient": "p7",
+          "service": "s3"
+        }
+      ]
+    },
+    {
+      "caregiver_id": "c2",
+      "locations": [
+        {
+          "arrival_time": 46.0,
+          "departure_time": 60.0,
+          "patient": "p8",
+          "service": "s5"
+        }
+      ]
+    },
+    {
+      "caregiver_id": "c3",
+      "locations": [
+        {
+          "arrival_time": 46.0,
+          "departure_time": 60.0,
+          "patient": "p8",
+          "service": "s6"
+        },
+        {
+          "arrival_time": 159.16099548339844,
+          "departure_time": 173.16099548339844,
+          "patient": "p10",
+          "service": "s6"
+        },
+        {
+          "arrival_time": 224.08299255371094,
+          "departure_time": 238.08299255371094,
+          "patient": "p6",
+          "service": "s5"
+        },
+        {
+          "arrival_time": 291.1210021972656,
+          "departure_time": 305.1210021972656,
+          "patient": "p2",
+          "service": "s5"
+        },
+        {
+          "arrival_time": 345.0,
+          "departure_time": 359.0,
+          "patient": "p1",
+          "service": "s4"
+        },
+        {
+          "arrival_time": 416.4540100097656,
+          "departure_time": 430.4540100097656,
+          "patient": "p9",
+          "service": "s4"
+        },
+        {
+          "arrival_time": 458.8789978027344,
+          "departure_time": 472.8789978027344,
+          "patient": "p4",
+          "service": "s4"
+        }
+      ]
+    }
+  ]
+}
