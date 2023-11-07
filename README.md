@@ -2,7 +2,8 @@
 
 Data and Toolbox Repository for the Home Healthcare Routing and Scheduling Problem.
 
-This repository contains the instances, some selected solutions, and a toolbox for the generation of instances and the validation in the context of the Home Healthcare Routing and Scheduling Problem.
+This repository contains the instances, some selected solutions, and a toolbox for the generation of instances and the validation 
+presented in the paper *Multi-Neighborhood Simulated Annealing for the Home Healthcare Routing and Scheduling Problem* by Sara Ceschia, Luca Di Gaspero, Roberto Maria Rosati and Andrea Schaerf, submitted for publication.
 
 ------------------------------------------------------------------------
 
