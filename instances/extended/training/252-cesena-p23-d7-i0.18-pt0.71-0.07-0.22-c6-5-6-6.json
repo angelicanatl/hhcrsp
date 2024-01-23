@@ -1,0 +1,1772 @@
+{
+    "name": "cesena",
+    "area": [
+        11.7793,
+        43.7787,
+        12.6274,
+        44.3918
+    ],
+    "distances": [
+        [
+            0,
+            33,
+            41,
+            24,
+            34,
+            39,
+            46,
+            30,
+            38,
+            66,
+            47,
+            49,
+            54,
+            15,
+            47,
+            41,
+            45,
+            32,
+            40,
+            47,
+            38,
+            64,
+            28,
+            22,
+            47,
+            47,
+            39,
+            38,
+            50,
+            25
+        ],
+        [
+            32,
+            0,
+            48,
+            12,
+            37,
+            42,
+            48,
+            36,
+            13,
+            75,
+            50,
+            52,
+            57,
+            21,
+            50,
+            44,
+            48,
+            38,
+            12,
+            50,
+            39,
+            67,
+            18,
+            29,
+            50,
+            50,
+            15,
+            38,
+            52,
+            23
+        ],
+        [
+            41,
+            49,
+            0,
+            48,
+            58,
+            62,
+            70,
+            54,
+            60,
+            71,
+            71,
+            73,
+            78,
+            31,
+            71,
+            65,
+            69,
+            56,
+            59,
+            71,
+            62,
+            88,
+            51,
+            46,
+            71,
+            71,
+            62,
+            61,
+            74,
+            47
+        ],
+        [
+            23,
+            13,
+            46,
+            0,
+            30,
+            35,
+            41,
+            26,
+            18,
+            70,
+            43,
+            45,
+            50,
+            20,
+            43,
+            37,
+            41,
+            28,
+            17,
+            43,
+            33,
+            60,
+            11,
+            19,
+            43,
+            43,
+            19,
+            31,
+            46,
+            13
+        ],
+        [
+            35,
+            39,
+            58,
+            30,
+            0,
+            6,
+            18,
+            8,
+            30,
+            80,
+            20,
+            22,
+            27,
+            33,
+            20,
+            8,
+            18,
+            7,
+            32,
+            20,
+            24,
+            37,
+            30,
+            18,
+            20,
+            20,
+            30,
+            34,
+            23,
+            22
+        ],
+        [
+            39,
+            44,
+            62,
+            34,
+            6,
+            0,
+            16,
+            12,
+            35,
+            74,
+            14,
+            24,
+            29,
+            37,
+            16,
+            7,
+            16,
+            13,
+            37,
+            14,
+            29,
+            39,
+            35,
+            22,
+            22,
+            14,
+            35,
+            39,
+            18,
+            27
+        ],
+        [
+            48,
+            52,
+            71,
+            43,
+            22,
+            16,
+            0,
+            28,
+            44,
+            77,
+            7,
+            11,
+            17,
+            46,
+            8,
+            19,
+            15,
+            28,
+            45,
+            2,
+            30,
+            26,
+            43,
+            31,
+            9,
+            3,
+            43,
+            40,
+            7,
+            35
+        ],
+        [
+            30,
+            37,
+            54,
+            25,
+            8,
+            12,
+            25,
+            0,
+            35,
+            78,
+            26,
+            29,
+            34,
+            28,
+            27,
+            16,
+            24,
+            4,
+            37,
+            27,
+            27,
+            44,
+            26,
+            13,
+            27,
+            26,
+            34,
+            35,
+            30,
+            19
+        ],
+        [
+            38,
+            14,
+            60,
+            17,
+            29,
+            34,
+            41,
+            35,
+            0,
+            85,
+            42,
+            44,
+            50,
+            33,
+            42,
+            36,
+            40,
+            35,
+            3,
+            43,
+            34,
+            60,
+            19,
+            27,
+            42,
+            42,
+            3,
+            33,
+            45,
+            23
+        ],
+        [
+            67,
+            76,
+            71,
+            72,
+            81,
+            74,
+            77,
+            78,
+            86,
+            0,
+            79,
+            86,
+            91,
+            57,
+            80,
+            79,
+            84,
+            80,
+            86,
+            76,
+            86,
+            85,
+            75,
+            70,
+            83,
+            73,
+            87,
+            85,
+            81,
+            71
+        ],
+        [
+            47,
+            50,
+            70,
+            42,
+            20,
+            15,
+            7,
+            27,
+            42,
+            78,
+            0,
+            12,
+            18,
+            44,
+            3,
+            17,
+            13,
+            26,
+            43,
+            5,
+            27,
+            29,
+            41,
+            29,
+            10,
+            5,
+            41,
+            37,
+            4,
+            34
+        ],
+        [
+            51,
+            55,
+            74,
+            46,
+            24,
+            23,
+            8,
+            32,
+            46,
+            84,
+            12,
+            0,
+            7,
+            49,
+            14,
+            26,
+            23,
+            30,
+            48,
+            10,
+            37,
+            26,
+            46,
+            34,
+            2,
+            11,
+            46,
+            47,
+            11,
+            38
+        ],
+        [
+            54,
+            58,
+            77,
+            49,
+            27,
+            28,
+            15,
+            34,
+            49,
+            91,
+            19,
+            8,
+            0,
+            51,
+            21,
+            28,
+            28,
+            33,
+            51,
+            17,
+            43,
+            22,
+            48,
+            36,
+            10,
+            18,
+            48,
+            53,
+            19,
+            41
+        ],
+        [
+            15,
+            22,
+            31,
+            22,
+            32,
+            37,
+            44,
+            28,
+            33,
+            57,
+            46,
+            47,
+            53,
+            0,
+            46,
+            39,
+            43,
+            30,
+            32,
+            46,
+            36,
+            63,
+            25,
+            20,
+            45,
+            45,
+            35,
+            35,
+            48,
+            21
+        ],
+        [
+            48,
+            52,
+            71,
+            43,
+            21,
+            17,
+            10,
+            28,
+            43,
+            81,
+            4,
+            14,
+            21,
+            45,
+            0,
+            18,
+            14,
+            27,
+            45,
+            8,
+            28,
+            32,
+            42,
+            30,
+            13,
+            8,
+            42,
+            38,
+            4,
+            35
+        ],
+        [
+            42,
+            46,
+            65,
+            37,
+            8,
+            7,
+            19,
+            16,
+            37,
+            79,
+            18,
+            23,
+            28,
+            39,
+            19,
+            0,
+            13,
+            15,
+            39,
+            18,
+            24,
+            38,
+            37,
+            25,
+            21,
+            17,
+            37,
+            34,
+            21,
+            29
+        ],
+        [
+            46,
+            50,
+            69,
+            41,
+            17,
+            17,
+            16,
+            25,
+            41,
+            84,
+            14,
+            25,
+            30,
+            43,
+            14,
+            12,
+            0,
+            22,
+            43,
+            15,
+            20,
+            40,
+            40,
+            28,
+            22,
+            14,
+            40,
+            30,
+            17,
+            33
+        ],
+        [
+            32,
+            39,
+            56,
+            28,
+            7,
+            13,
+            24,
+            4,
+            36,
+            80,
+            26,
+            28,
+            33,
+            30,
+            26,
+            15,
+            22,
+            0,
+            38,
+            26,
+            27,
+            43,
+            28,
+            15,
+            26,
+            26,
+            36,
+            37,
+            29,
+            21
+        ],
+        [
+            39,
+            13,
+            59,
+            17,
+            30,
+            35,
+            42,
+            36,
+            1,
+            86,
+            43,
+            45,
+            51,
+            32,
+            43,
+            37,
+            41,
+            36,
+            0,
+            44,
+            35,
+            61,
+            20,
+            28,
+            43,
+            43,
+            4,
+            34,
+            46,
+            24
+        ],
+        [
+            48,
+            52,
+            71,
+            43,
+            21,
+            14,
+            2,
+            27,
+            43,
+            75,
+            6,
+            11,
+            16,
+            45,
+            7,
+            18,
+            14,
+            27,
+            45,
+            0,
+            28,
+            26,
+            43,
+            31,
+            9,
+            2,
+            42,
+            38,
+            6,
+            35
+        ],
+        [
+            38,
+            41,
+            62,
+            33,
+            23,
+            29,
+            30,
+            28,
+            34,
+            86,
+            28,
+            38,
+            44,
+            36,
+            28,
+            25,
+            21,
+            27,
+            36,
+            29,
+            0,
+            54,
+            29,
+            20,
+            36,
+            28,
+            34,
+            11,
+            31,
+            25
+        ],
+        [
+            65,
+            69,
+            88,
+            60,
+            38,
+            39,
+            24,
+            45,
+            60,
+            85,
+            29,
+            27,
+            21,
+            62,
+            31,
+            40,
+            38,
+            44,
+            62,
+            26,
+            53,
+            0,
+            60,
+            48,
+            25,
+            27,
+            60,
+            63,
+            28,
+            52
+        ],
+        [
+            28,
+            19,
+            51,
+            11,
+            29,
+            34,
+            41,
+            26,
+            19,
+            76,
+            42,
+            44,
+            50,
+            25,
+            42,
+            36,
+            40,
+            28,
+            21,
+            42,
+            29,
+            59,
+            0,
+            20,
+            42,
+            42,
+            20,
+            27,
+            45,
+            9
+        ],
+        [
+            21,
+            30,
+            44,
+            18,
+            16,
+            21,
+            27,
+            13,
+            27,
+            69,
+            29,
+            31,
+            36,
+            19,
+            29,
+            23,
+            27,
+            15,
+            29,
+            29,
+            20,
+            46,
+            19,
+            0,
+            29,
+            29,
+            27,
+            29,
+            32,
+            13
+        ],
+        [
+            49,
+            53,
+            72,
+            44,
+            22,
+            21,
+            6,
+            29,
+            44,
+            82,
+            10,
+            3,
+            9,
+            46,
+            12,
+            24,
+            21,
+            28,
+            46,
+            8,
+            35,
+            25,
+            44,
+            32,
+            0,
+            9,
+            44,
+            45,
+            9,
+            36
+        ],
+        [
+            47,
+            51,
+            70,
+            42,
+            20,
+            14,
+            3,
+            26,
+            42,
+            73,
+            5,
+            12,
+            17,
+            44,
+            6,
+            17,
+            13,
+            26,
+            44,
+            2,
+            28,
+            27,
+            42,
+            30,
+            10,
+            0,
+            41,
+            38,
+            7,
+            34
+        ],
+        [
+            37,
+            16,
+            60,
+            19,
+            29,
+            34,
+            40,
+            34,
+            3,
+            84,
+            42,
+            44,
+            49,
+            34,
+            42,
+            36,
+            40,
+            35,
+            6,
+            42,
+            34,
+            59,
+            20,
+            26,
+            42,
+            42,
+            0,
+            32,
+            44,
+            24
+        ],
+        [
+            37,
+            39,
+            60,
+            31,
+            33,
+            38,
+            40,
+            36,
+            33,
+            84,
+            38,
+            48,
+            53,
+            34,
+            38,
+            35,
+            31,
+            37,
+            34,
+            39,
+            11,
+            63,
+            27,
+            30,
+            45,
+            38,
+            32,
+            0,
+            41,
+            23
+        ],
+        [
+            50,
+            54,
+            73,
+            45,
+            23,
+            18,
+            6,
+            30,
+            45,
+            80,
+            4,
+            11,
+            17,
+            47,
+            4,
+            20,
+            16,
+            29,
+            47,
+            5,
+            31,
+            28,
+            45,
+            33,
+            9,
+            6,
+            44,
+            40,
+            0,
+            37
+        ],
+        [
+            25,
+            24,
+            47,
+            13,
+            22,
+            27,
+            33,
+            20,
+            23,
+            72,
+            35,
+            37,
+            42,
+            22,
+            35,
+            29,
+            33,
+            22,
+            25,
+            35,
+            25,
+            52,
+            9,
+            13,
+            35,
+            35,
+            24,
+            23,
+            37,
+            0
+        ]
+    ],
+    "departing_points": [
+        {
+            "id": "d0",
+            "location": [
+                12.2055,
+                44.0802
+            ]
+        },
+        {
+            "id": "d1",
+            "location": [
+                12.0655,
+                44.1289
+            ]
+        },
+        {
+            "id": "d2",
+            "location": [
+                12.076,
+                43.9482
+            ]
+        },
+        {
+            "id": "d3",
+            "location": [
+                12.1331,
+                44.1517
+            ]
+        },
+        {
+            "id": "d4",
+            "location": [
+                12.3844,
+                44.1086
+            ]
+        },
+        {
+            "id": "d5",
+            "location": [
+                12.4223,
+                44.0787
+            ]
+        },
+        {
+            "id": "d6",
+            "location": [
+                12.5527,
+                44.0485
+            ]
+        }
+    ],
+    "patients": [
+        {
+            "id": "p0",
+            "location": [
+                12.3421,
+                44.1084
+            ],
+            "time_window": [
+                276,
+                336
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s2",
+                    "duration": 30
+                },
+                {
+                    "service": "s22",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 7,
+            "synchronization": {
+                "type": "simultaneous"
+            }
+        },
+        {
+            "id": "p1",
+            "location": [
+                12.0333,
+                44.2097
+            ],
+            "time_window": [
+                519,
+                579
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s9",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 8
+        },
+        {
+            "id": "p2",
+            "location": [
+                12.1107,
+                43.8067
+            ],
+            "time_window": [
+                216,
+                336
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s17",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 9,
+            "incompatible_caregivers": [
+                "c7"
+            ]
+        },
+        {
+            "id": "p3",
+            "location": [
+                12.5497,
+                44.0689
+            ],
+            "time_window": [
+                315,
+                375
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s18",
+                    "duration": 30
+                },
+                {
+                    "service": "s10",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 10,
+            "synchronization": {
+                "type": "simultaneous"
+            }
+        },
+        {
+            "id": "p4",
+            "location": [
+                12.6234,
+                44.0334
+            ],
+            "time_window": [
+                550,
+                610
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s4",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 11
+        },
+        {
+            "id": "p5",
+            "location": [
+                12.6224,
+                44.0062
+            ],
+            "time_window": [
+                352,
+                472
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s8",
+                    "duration": 30
+                },
+                {
+                    "service": "s12",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 12,
+            "synchronization": {
+                "type": "sequential",
+                "distance": [
+                    45,
+                    60
+                ]
+            },
+            "incompatible_caregivers": [
+                "c2"
+            ]
+        },
+        {
+            "id": "p6",
+            "location": [
+                12.1702,
+                44.0647
+            ],
+            "time_window": [
+                27,
+                87
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s2",
+                    "duration": 45
+                }
+            ],
+            "distance_matrix_index": 13
+        },
+        {
+            "id": "p7",
+            "location": [
+                12.5476,
+                44.081
+            ],
+            "time_window": [
+                5,
+                65
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s13",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 14,
+            "incompatible_caregivers": [
+                "c3"
+            ]
+        },
+        {
+            "id": "p8",
+            "location": [
+                12.4365,
+                44.1051
+            ],
+            "time_window": [
+                54,
+                174
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s5",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 15
+        },
+        {
+            "id": "p9",
+            "location": [
+                12.4751,
+                44.1365
+            ],
+            "time_window": [
+                379,
+                439
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s13",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 16,
+            "incompatible_caregivers": [
+                "c0"
+            ]
+        },
+        {
+            "id": "p10",
+            "location": [
+                12.3483,
+                44.1157
+            ],
+            "time_window": [
+                372,
+                552
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s10",
+                    "duration": 30
+                },
+                {
+                    "service": "s0",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 17,
+            "synchronization": {
+                "type": "simultaneous"
+            }
+        },
+        {
+            "id": "p11",
+            "location": [
+                12.0303,
+                44.2002
+            ],
+            "time_window": [
+                44,
+                224
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s11",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 18
+        },
+        {
+            "id": "p12",
+            "location": [
+                12.5508,
+                44.0552
+            ],
+            "time_window": [
+                164,
+                344
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s16",
+                    "duration": 45
+                }
+            ],
+            "distance_matrix_index": 19
+        },
+        {
+            "id": "p13",
+            "location": [
+                12.3493,
+                44.2513
+            ],
+            "time_window": [
+                618,
+                678
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s18",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 20
+        },
+        {
+            "id": "p14",
+            "location": [
+                12.5397,
+                43.9351
+            ],
+            "time_window": [
+                102,
+                207
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s9",
+                    "duration": 30
+                },
+                {
+                    "service": "s2",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 21,
+            "synchronization": {
+                "type": "sequential",
+                "distance": [
+                    0,
+                    90
+                ]
+            }
+        },
+        {
+            "id": "p15",
+            "location": [
+                12.1524,
+                44.1848
+            ],
+            "time_window": [
+                132,
+                192
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s18",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 22
+        },
+        {
+            "id": "p16",
+            "location": [
+                12.2505,
+                44.1457
+            ],
+            "time_window": [
+                314,
+                494
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s14",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 23
+        },
+        {
+            "id": "p17",
+            "location": [
+                12.6086,
+                44.0349
+            ],
+            "time_window": [
+                615,
+                720
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s21",
+                    "duration": 15
+                },
+                {
+                    "service": "s14",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 24,
+            "synchronization": {
+                "type": "sequential",
+                "distance": [
+                    75,
+                    90
+                ]
+            },
+            "incompatible_caregivers": [
+                "c7"
+            ]
+        },
+        {
+            "id": "p18",
+            "location": [
+                12.5322,
+                44.0571
+            ],
+            "time_window": [
+                216,
+                396
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s19",
+                    "duration": 60
+                },
+                {
+                    "service": "s12",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 25,
+            "synchronization": {
+                "type": "sequential",
+                "distance": [
+                    45,
+                    75
+                ]
+            },
+            "incompatible_caregivers": [
+                "c2"
+            ]
+        },
+        {
+            "id": "p19",
+            "location": [
+                12.0234,
+                44.2295
+            ],
+            "time_window": [
+                140,
+                260
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s19",
+                    "duration": 60
+                }
+            ],
+            "distance_matrix_index": 26
+        },
+        {
+            "id": "p20",
+            "location": [
+                12.2886,
+                44.3073
+            ],
+            "time_window": [
+                487,
+                547
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s4",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 27
+        },
+        {
+            "id": "p21",
+            "location": [
+                12.5676,
+                44.0713
+            ],
+            "time_window": [
+                433,
+                553
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s4",
+                    "duration": 15
+                },
+                {
+                    "service": "s6",
+                    "duration": 15
+                }
+            ],
+            "distance_matrix_index": 28,
+            "synchronization": {
+                "type": "simultaneous"
+            }
+        },
+        {
+            "id": "p22",
+            "location": [
+                12.1922,
+                44.1921
+            ],
+            "time_window": [
+                490,
+                670
+            ],
+            "required_caregivers": [
+                {
+                    "service": "s10",
+                    "duration": 30
+                }
+            ],
+            "distance_matrix_index": 29
+        }
+    ],
+    "caregivers": [
+        {
+            "id": "c0",
+            "abilities": [
+                "s13"
+            ],
+            "distance_matrix_index": 5,
+            "starting_point_id": "d5",
+            "working_shift": [
+                150,
+                630
+            ]
+        },
+        {
+            "id": "c1",
+            "abilities": [
+                "s17"
+            ],
+            "distance_matrix_index": 3,
+            "starting_point_id": "d3",
+            "working_shift": [
+                120,
+                600
+            ]
+        },
+        {
+            "id": "c2",
+            "abilities": [
+                "s12"
+            ],
+            "distance_matrix_index": 0,
+            "starting_point_id": "d0",
+            "working_shift": [
+                0,
+                480
+            ]
+        },
+        {
+            "id": "c3",
+            "abilities": [
+                "s11",
+                "s13",
+                "s15",
+                "s12",
+                "s14"
+            ],
+            "distance_matrix_index": 2,
+            "starting_point_id": "d2",
+            "working_shift": [
+                180,
+                660
+            ]
+        },
+        {
+            "id": "c4",
+            "abilities": [
+                "s8",
+                "s6",
+                "s10",
+                "s9",
+                "s7"
+            ],
+            "distance_matrix_index": 6,
+            "starting_point_id": "d6",
+            "working_shift": [
+                150,
+                630
+            ]
+        },
+        {
+            "id": "c5",
+            "abilities": [
+                "s5",
+                "s1",
+                "s4",
+                "s0",
+                "s2"
+            ],
+            "distance_matrix_index": 0,
+            "starting_point_id": "d0",
+            "working_shift": [
+                0,
+                360
+            ]
+        },
+        {
+            "id": "c6",
+            "abilities": [
+                "s16"
+            ],
+            "distance_matrix_index": 1,
+            "starting_point_id": "d1",
+            "working_shift": [
+                30,
+                510
+            ]
+        },
+        {
+            "id": "c7",
+            "abilities": [
+                "s21",
+                "s17"
+            ],
+            "distance_matrix_index": 0,
+            "starting_point_id": "d0",
+            "working_shift": [
+                480,
+                720
+            ]
+        },
+        {
+            "id": "c8",
+            "abilities": [
+                "s22",
+                "s18",
+                "s21",
+                "s19",
+                "s20"
+            ],
+            "distance_matrix_index": 4,
+            "starting_point_id": "d4",
+            "working_shift": [
+                90,
+                570
+            ]
+        }
+    ],
+    "services": [
+        {
+            "id": "s0",
+            "default_duration": 30,
+            "type": "t0"
+        },
+        {
+            "id": "s1",
+            "default_duration": 15,
+            "type": "t0"
+        },
+        {
+            "id": "s2",
+            "default_duration": 30,
+            "type": "t0"
+        },
+        {
+            "id": "s3",
+            "default_duration": 45,
+            "type": "t0"
+        },
+        {
+            "id": "s4",
+            "default_duration": 30,
+            "type": "t0"
+        },
+        {
+            "id": "s5",
+            "default_duration": 15,
+            "type": "t0"
+        },
+        {
+            "id": "s6",
+            "default_duration": 15,
+            "type": "t1"
+        },
+        {
+            "id": "s7",
+            "default_duration": 30,
+            "type": "t1"
+        },
+        {
+            "id": "s8",
+            "default_duration": 30,
+            "type": "t1"
+        },
+        {
+            "id": "s9",
+            "default_duration": 15,
+            "type": "t1"
+        },
+        {
+            "id": "s10",
+            "default_duration": 30,
+            "type": "t1"
+        },
+        {
+            "id": "s11",
+            "default_duration": 15,
+            "type": "t2"
+        },
+        {
+            "id": "s12",
+            "default_duration": 15,
+            "type": "t2"
+        },
+        {
+            "id": "s13",
+            "default_duration": 15,
+            "type": "t2"
+        },
+        {
+            "id": "s14",
+            "default_duration": 30,
+            "type": "t2"
+        },
+        {
+            "id": "s15",
+            "default_duration": 45,
+            "type": "t2"
+        },
+        {
+            "id": "s16",
+            "default_duration": 45,
+            "type": "t2"
+        },
+        {
+            "id": "s17",
+            "default_duration": 15,
+            "type": "t3"
+        },
+        {
+            "id": "s18",
+            "default_duration": 15,
+            "type": "t3"
+        },
+        {
+            "id": "s19",
+            "default_duration": 60,
+            "type": "t3"
+        },
+        {
+            "id": "s20",
+            "default_duration": 15,
+            "type": "t3"
+        },
+        {
+            "id": "s21",
+            "default_duration": 15,
+            "type": "t3"
+        },
+        {
+            "id": "s22",
+            "default_duration": 30,
+            "type": "t3"
+        }
+    ]
+}
