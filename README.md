@@ -3,7 +3,7 @@
 Data and Toolbox Repository for the Home Healthcare Routing and Scheduling Problem.
 
 This repository contains the instances, some selected solutions, and a toolbox for the generation of instances and the validation 
-presented in the paper *Multi-Neighborhood Simulated Annealing for the Home Healthcare Routing and Scheduling Problem* by Sara Ceschia, Luca Di Gaspero, Roberto Maria Rosati, and Andrea Schaerf, submitted for publication.
+presented in the paper *Multi-Neighborhood Simulated Annealing for the Home Healthcare Routing and Scheduling Problem* by Sara Ceschia, Luca Di Gaspero, Roberto Maria Rosati, and Andrea Schaerf, *International Transactions in Operational Research*, 2024, [https://doi.org/10.1111/itor.13585] (https://doi.org/10.1111/itor.13585).
 
 A new version of the validation and generation toolbox, including an interactive solution visualizer, is currently under development and is available at [https://github.com/iolab-uniud/hhcrsp-toolbox](https://github.com/iolab-uniud/hhcrsp-toolbox).
 
